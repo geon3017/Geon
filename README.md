@@ -7,7 +7,6 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-CSS9?logo=css3&color=%231572B6)
 ![Static Badge](https://img.shields.io/badge/Javascript-javascript?logo=javascript&color=%23000)
 ![Static Badge](https://img.shields.io/badge/jQuery-jquery?logo=jquery&logoColor=%23fff&color=%23000)
-
 ## 👋 Mail & Discord
 ![Static Badge](https://img.shields.io/badge/Gmail-gmail?logo=gmail&logoColor=fff&color=%23EA4335)
 ![Static Badge](https://img.shields.io/badge/Naver-naver?logo=naver&logoColor=fff&color=%2303C75A)
